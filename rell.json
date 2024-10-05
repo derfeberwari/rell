@@ -1,10 +1,17 @@
 {
   "rell":
  [
-  
+    {
+    "id": 3,
+      "relll":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fvideo%2Fvvideo.MP4?alt=media&token=a66ec81c-fb57-448b-8d71-a762c4a81e8b",
+     "duhok":"DUHOK SPORT CLUB",
+      "se7":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2FScreenshot_2024-09-26_095136-removebg-preview.png?alt=media&token=7b60c049-13b3-4f69-a758-4b9250913056",
+      "tarix":"2024 / 10 / 5",
+       "text":" ئامادەکاری بۆ دیدارا نەجەفێ تمامبوون 💛💙💛 اكتملت استعداداتنا لمواجهة النجف  "
+    }, 
   
      {
-    "id": 1,
+    "id": 2,
       "relll":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fvideo%2Fvideo78.MP4?alt=media&token=9c652909-6610-4826-8aa3-c1c1e9ea181f",
      "duhok":"DUHOK SPORT CLUB",
       "se7":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2FScreenshot_2024-09-26_095136-removebg-preview.png?alt=media&token=7b60c049-13b3-4f69-a758-4b9250913056",
@@ -12,7 +19,7 @@
        "text":" هێزا خۆ ژ هەوە وەردگرین "
     }, 
    {
-    "id": 2,
+    "id": 1,
       "relll":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fvideo%2Fvideoduhok.MP4?alt=media&token=df977d53-14a9-40e8-baca-d9e77dc1634c",
      "duhok":"DUHOK SPORT CLUB",
       "se7":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fnews%2FScreenshot_2024-09-26_095136-removebg-preview.png?alt=media&token=7b60c049-13b3-4f69-a758-4b9250913056",
